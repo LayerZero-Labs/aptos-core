@@ -7,7 +7,7 @@ the Aptos Postgres Indexer DB.
 
 ## Getting started
 
-### 1. [Complete the Local Development Guide for the Rust Indexer](../rust/README.md) (Highly Reccomended)
+### 1. [Complete the Local Development Guide for the Rust Indexer](../rust/README.md) (Highly Recommended)
 This will make sure you have the following setup on your local:
 1. postgres
 2. diesel cli
